@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Run DB",
+            "type": "command",
+            "program": "pnpm",
+            "args": ["prisma","studio"]
+        }
+    ]
+}
