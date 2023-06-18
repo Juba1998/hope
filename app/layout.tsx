@@ -1,7 +1,8 @@
 import '@/styles/globals.css'
-import { Inter } from 'next/font/google'
-
-const inter = Inter({ subsets: ['latin'] })
+import localFont from 'next/font/local'
+ 
+// Font files can be colocated inside of `pages`
+// const myFont = localFont({ src: '../fonts/SFPRODISPLAYREGULAR.OTF'})
 
 export const metadata = {
   title: 'Retail Enterprise',
@@ -15,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
-      <body className={inter.className}>
+      <body >
         {children}
       </body>
     </html>

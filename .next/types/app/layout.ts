@@ -1,4 +1,4 @@
-// File: /Users/juba/Downloads/retail_enterprise-feature-navbar/app/layout.tsx
+// File: C:\Users\Juba\Documents\hope\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
