@@ -18,7 +18,9 @@ module.exports = {
     },
     extend: {
 colors: {
-        'purplehope' : '#9158DB',
+        'darkbluehope' : '#237BFF',
+        'greyhover' : '#D9D9D7',
+        'bgblue' : '#01BAB4'
       },
       screens: {
         '2xl': {'max': '1535px'},

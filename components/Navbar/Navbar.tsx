@@ -8,16 +8,15 @@ import { useRouter } from "next/router";
 
 export const Navbar = (): JSX.Element => {
   const pathname = usePathname();
-  console.log(pathname);
 
   return (
     <div className="w-64 h-screen bg-white p-6">
-      <section className="flex flex-col gap-12 2xl:gap-4">
+      <section className="flex flex-col gap-12 ">
         <section>
           <Image
-            width={88}
-            height={94}
-            src={"./navbar/logo.svg"}
+            width={144}
+            height={24}
+            src={"./navbar/logoiso.svg"}
             priority={true}
             alt="logo"
           />
@@ -29,8 +28,8 @@ export const Navbar = (): JSX.Element => {
           <article
             className={
               pathname == "/home"
-                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
-                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                ? "cursor-pointer bg-darkbluehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6 hover:bg-greyhover"
             }
             style={{ borderRadius: "0.5rem" }}
           >
@@ -66,8 +65,8 @@ export const Navbar = (): JSX.Element => {
           <article
             className={
               pathname == "/event"
-                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
-                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                ? "cursor-pointer bg-darkbluehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6 hover:bg-greyhover"
             }
             style={{ borderRadius: "0.5rem" }}
           >
@@ -108,8 +107,8 @@ export const Navbar = (): JSX.Element => {
           <article
             className={
               pathname == "/plugin"
-                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
-                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                ? "cursor-pointer bg-darkbluehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6 hover:bg-greyhover"
             }
             style={{ borderRadius: "0.5rem" }}
           >
@@ -145,8 +144,8 @@ export const Navbar = (): JSX.Element => {
           <article
             className={
               pathname == "/post"
-                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
-                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                ? "cursor-pointer bg-darkbluehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6 hover:bg-greyhover"
             }
             style={{ borderRadius: "0.5rem" }}
           >
@@ -182,8 +181,8 @@ export const Navbar = (): JSX.Element => {
           <article
             className={
               pathname == "/guide"
-                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
-                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                ? "cursor-pointer bg-darkbluehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6 hover:bg-greyhover"
             }
             style={{ borderRadius: "0.5rem" }}
           >
@@ -223,23 +222,23 @@ export const Navbar = (): JSX.Element => {
           <article
             className={
               pathname == "/settings"
-                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
-                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                ? "cursor-pointer bg-darkbluehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6 hover:bg-greyhover"
             }
             style={{ borderRadius: "0.5rem" }}
           >
             {pathname == "/settings" ? (
               <Image
-                width={30}
-                height={25}
+                width={28}
+                height={28}
                 src={"./navbar/settingswhite.svg"}
                 priority={true}
                 alt="logo"
               />
             ) : (
               <Image
-                width={30}
-                height={25}
+                width={28}
+                height={28}
                 src={"./navbar/settings.svg"}
                 priority={true}
                 alt="logo"
@@ -260,23 +259,23 @@ export const Navbar = (): JSX.Element => {
           <article
             className={
               pathname == "/access"
-                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
-                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                ? "cursor-pointer bg-darkbluehope w-52 h-11 flex flex-row items-center gap-4 pl-7"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-7 hover:bg-greyhover"
             }
             style={{ borderRadius: "0.5rem" }}
           >
             {pathname == "/access" ? (
               <Image
-                width={28}
-                height={28}
+                width={20}
+                height={20}
                 src={"./navbar/accesswhite.svg"}
                 priority={true}
                 alt="logo"
               />
             ) : (
               <Image
-                width={28}
-                height={28}
+                width={20}
+                height={20}
                 src={"./navbar/access.svg"}
                 priority={true}
                 alt="logo"
@@ -295,7 +294,7 @@ export const Navbar = (): JSX.Element => {
             </Link>
           </article>
         </section>
-        <article className="flex flex-col items-center justify-center bottom-4 absolute">
+        <article className="flex flex-col gap-2 items-center justify-center bottom-4 absolute">
           <Image width={208} height={64} src={"./navbar/userinfo.svg"} alt="userinfo"/>
           <div className="flex justify-center cursor-pointer" style={{width:"208px", height:"48px"}}><span className="text-red-500">Se déconnecter</span></div>
         </article>
