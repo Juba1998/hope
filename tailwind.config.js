@@ -20,7 +20,9 @@ module.exports = {
 colors: {
         'darkbluehope' : '#237BFF',
         'greyhover' : '#D9D9D7',
-        'bgblue' : '#01BAB4'
+        'bgblue' : '#01BAB4',
+        'grey2' : '#ACB5BD',
+        'greybg': '#F9FAFC'
       },
       screens: {
         '2xl': {'max': '1535px'},

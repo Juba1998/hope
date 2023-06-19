@@ -10,8 +10,8 @@ export const Navbar = (): JSX.Element => {
   const pathname = usePathname();
 
   return (
-    <div className="w-64 h-screen bg-white p-6">
-      <section className="flex flex-col gap-12 ">
+    <div className="w-64 h-screen bg-white p-6 border-r border-greyhover">
+      <section className="flex flex-col gap-12 2xl:gap-8">
         <section>
           <Image
             width={144}
