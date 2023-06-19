@@ -1,5 +1,3 @@
-"use client"
-
 import styles from "./App.module.scss"
 import { Button } from "@/components/_UI/button"
 import Image from "next/image";
@@ -7,12 +5,6 @@ import Link from "next/link";
 
 
 export default function Home() {
-
-  // const router = useRouter();
-
-  // const handleClick = () => {
-  //   router.push('/home');
-  // };
 
   return (
     <section className="h-screen flex flex-row justify-center items-center">
