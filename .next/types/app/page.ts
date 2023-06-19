@@ -1,4 +1,4 @@
-// File: C:\Users\Juba\Documents\hope\app\page.tsx
+// File: /Users/juba/Downloads/retail_enterprise-feature-navbar/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

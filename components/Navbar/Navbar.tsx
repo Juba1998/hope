@@ -11,20 +11,20 @@ export const Navbar = (): JSX.Element => {
   console.log(pathname);
 
   return (
-    <div className="w-2/12 h-screen bg-white p-6">
-      <section className="flex flex-col gap-12">
+    <div className="w-64 h-screen bg-white p-6">
+      <section className="flex flex-col gap-12 2xl:gap-4">
         <section>
           <Image
-            width={106}
-            height={124}
+            width={88}
+            height={94}
             src={"./navbar/logo.svg"}
             priority={true}
             alt="logo"
           />
         </section>
 
-        <section className="flex flex-col gap-4">
-          <p className="text-2xl font-semibold">Général</p>
+        <section className="flex flex-col gap-4 2xl:gap-2">
+          <p className="text-2xl 2xl:text-xl font-semibold">Général</p>
 
           <article
             className={
@@ -102,8 +102,8 @@ export const Navbar = (): JSX.Element => {
           </article>
         </section>
 
-        <section className="flex flex-col gap-4">
-          <p className="text-2xl font-semibold">Ressources</p>
+        <section className="flex flex-col gap-4 2xl:gap-2">
+          <p className="text-2xl 2xl:text-xl font-semibold">Ressources</p>
 
           <article
             className={
@@ -217,6 +217,88 @@ export const Navbar = (): JSX.Element => {
             </Link>
           </article>
         </section>
+        <section className="flex flex-col gap-4 2xl:gap-2">
+          <p className="text-2xl 2xl:text-xl font-semibold">Paramètres</p>
+
+          <article
+            className={
+              pathname == "/settings"
+                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+            }
+            style={{ borderRadius: "0.5rem" }}
+          >
+            {pathname == "/settings" ? (
+              <Image
+                width={30}
+                height={25}
+                src={"./navbar/settingswhite.svg"}
+                priority={true}
+                alt="logo"
+              />
+            ) : (
+              <Image
+                width={30}
+                height={25}
+                src={"./navbar/settings.svg"}
+                priority={true}
+                alt="logo"
+              />
+            )}
+
+            <Link
+              className={
+                pathname == "/settings"
+                  ? "text-white font-medium"
+                  : "text-black font-medium"
+              }
+              href={"/settings"}
+            >
+              Configuration
+            </Link>
+          </article>
+          <article
+            className={
+              pathname == "/access"
+                ? "cursor-pointer bg-purplehope w-52 h-11 flex flex-row items-center gap-4 pl-6"
+                : "cursor-pointer w-52 h-11 flex flex-row items-center gap-4 pl-6"
+            }
+            style={{ borderRadius: "0.5rem" }}
+          >
+            {pathname == "/access" ? (
+              <Image
+                width={28}
+                height={28}
+                src={"./navbar/accesswhite.svg"}
+                priority={true}
+                alt="logo"
+              />
+            ) : (
+              <Image
+                width={28}
+                height={28}
+                src={"./navbar/access.svg"}
+                priority={true}
+                alt="logo"
+              />
+            )}
+
+            <Link
+              className={
+                pathname == "/access"
+                  ? "text-white font-medium"
+                  : "text-black font-medium"
+              }
+              href={"/access"}
+            >
+              Accessiblité
+            </Link>
+          </article>
+        </section>
+        <article className="flex flex-col items-center justify-center bottom-4 absolute">
+          <Image width={208} height={64} src={"./navbar/userinfo.svg"} alt="userinfo"/>
+          <div className="flex justify-center cursor-pointer" style={{width:"208px", height:"48px"}}><span className="text-red-500">Se déconnecter</span></div>
+        </article>
 
       </section>
     </div>

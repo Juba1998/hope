@@ -345,15 +345,15 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "C:\\Users\\Juba\\Documents\\hope\\app\\layout": [
-      "static/css/app/layout.css"
-    ],
-    "C:\\Users\\Juba\\Documents\\hope\\app\\page": [
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/app/page": [
       "static/css/app/page.css"
+    ],
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/app/layout": [
+      "static/css/app/layout.css"
     ]
   },
   "clientModules": {
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -361,7 +361,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -369,7 +369,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -377,7 +377,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -385,7 +385,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -393,7 +393,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -401,15 +401,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "getServerActionDispatcher",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -417,7 +409,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -425,7 +425,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -433,7 +433,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -441,7 +441,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -449,7 +449,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -457,7 +457,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -465,7 +465,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -473,7 +473,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -481,15 +481,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
-      "name": "ErrorBoundaryHandler",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -497,7 +489,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -505,7 +505,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -513,7 +513,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -521,7 +521,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -529,7 +529,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -537,7 +537,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -545,7 +545,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -553,7 +553,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -561,15 +561,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -577,7 +569,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -585,7 +585,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -593,7 +593,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -601,7 +601,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -609,7 +609,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -617,7 +617,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -625,7 +625,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -633,7 +633,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -641,7 +641,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -649,7 +649,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -657,7 +657,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -665,7 +665,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -673,7 +673,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -681,7 +681,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -689,7 +689,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -697,7 +697,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -705,7 +705,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -713,7 +713,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -721,7 +721,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -729,7 +729,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -737,7 +737,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -745,7 +745,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -753,7 +753,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -761,7 +761,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -769,7 +769,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -777,7 +777,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -785,15 +785,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -801,7 +793,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -809,7 +809,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -817,7 +817,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -825,7 +825,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -833,7 +833,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -841,7 +841,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -849,15 +849,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -865,7 +857,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -873,7 +873,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -881,7 +881,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -889,7 +889,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -897,7 +897,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -905,7 +905,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -913,7 +913,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -921,7 +921,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -929,7 +929,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -937,7 +937,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -945,7 +945,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -953,7 +953,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -961,7 +961,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -969,7 +969,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -977,7 +977,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -985,7 +985,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -993,7 +993,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -1001,7 +1001,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -1009,7 +1009,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -1017,7 +1017,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -1025,7 +1025,14 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\components\\Navbar\\Navbar.tsx": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/app/App.module.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/components/Navbar/Navbar.tsx": {
       "id": "(app-client)/./components/Navbar/Navbar.tsx",
       "name": "*",
       "chunks": [
@@ -1033,7 +1040,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\components\\Navbar\\Navbar.tsx#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/components/Navbar/Navbar.tsx#": {
       "id": "(app-client)/./components/Navbar/Navbar.tsx",
       "name": "",
       "chunks": [
@@ -1041,7 +1048,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\components\\Navbar\\Navbar.tsx#Navbar": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/components/Navbar/Navbar.tsx#Navbar": {
       "id": "(app-client)/./components/Navbar/Navbar.tsx",
       "name": "Navbar",
       "chunks": [
@@ -1049,7 +1056,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\image.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1057,7 +1064,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\image.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1065,7 +1072,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\image.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1073,7 +1080,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\image.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1081,7 +1088,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\image.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1089,7 +1096,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1097,7 +1104,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\link.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1105,7 +1112,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\link.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1113,7 +1120,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\link.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1121,7 +1128,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1129,7 +1136,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\client\\link.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1137,7 +1144,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1145,7 +1152,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1153,7 +1160,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1161,7 +1168,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1169,7 +1176,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1177,7 +1184,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1185,7 +1192,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1193,7 +1200,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1201,7 +1208,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1209,18 +1216,11 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Juba\\Documents\\hope\\styles\\globals.css#": {
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/styles/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\Juba\\Documents\\hope\\app\\App.module.scss#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/page.css"
       ]
     }
   }
