@@ -19,7 +19,7 @@ export default function Home() {
           />
         </article>
         <article className="flex flex-col items-center gap-4">
-          <p className="text-3xl font-medium">Bienvenue sur Hope !</p>
+          <p className="text-3xl font-medium">Bienvenue sur Hope &apos;!</p>
           <p className="text-sm font-light">Connectez-vous pour accéder à Hope</p>
         </article>
         <section className="flex flex-col gap-4" style={{width: '432px'}}>
@@ -32,7 +32,7 @@ export default function Home() {
             <input className="w-full border border-greyhover h-12 p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir un mot de passe"></input>
           </article>
           <article className="p-4">
-            <p className="text-darkbluehope">Mot de passe oublié ?</p>
+            <p className="text-darkbluehope">Mot de passe oublié &apos;?</p>
           </article>
         </section>
         <article className="flex flex-col gap-4 w-full">
