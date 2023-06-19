@@ -43,7 +43,7 @@ export default function Home() {
             >
               Connexion
             </Link>
-            <p className="text-darkbluehope text-xs text-center">Utiliser l'empreinte digitale ou la reconnaissance faciale</p>
+            <p className="text-darkbluehope text-xs text-center">Utiliser l&apos;empreinte digitale ou la reconnaissance faciale</p>
 
        </article>
       </div>
