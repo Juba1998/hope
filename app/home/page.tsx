@@ -81,7 +81,7 @@ const Home = () => {
                 <article className="flex flex-row justify-between items-center"><Image
                 width={24}
                 height={24}
-                src={"./navbar/bell.svg"}
+                src={"./navbar/bellnotif.svg"}
                 priority={true}
                 alt="user"
                 /><Image
@@ -111,7 +111,7 @@ const Home = () => {
                 <article className="flex flex-row justify-between items-center"><Image
                 width={24}
                 height={24}
-                src={"./navbar/bell.svg"}
+                src={"./navbar/bellnotif.svg"}
                 priority={true}
                 alt="user"
                 /><Image
