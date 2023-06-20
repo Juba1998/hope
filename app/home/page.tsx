@@ -39,7 +39,7 @@ const Home = () => {
               priority={true}
               alt="user"
             />
-            <p className="text-white text-sm">Ajouter un widget</p>
+            <p className="text-white text-sm">Ajouter un Widget</p>
           </div>
         </article>
       </section>
