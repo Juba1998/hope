@@ -57,7 +57,7 @@ const Home = () => {
             <Image
                 width={145}
                 height={15}
-                src={"./navbar/icon/pourcenttitle.svg"}
+                src={"./navbar/pourcenttitle.svg"}
                 priority={true}
                 alt="user"
                 />
@@ -81,7 +81,7 @@ const Home = () => {
                 <article className="flex flex-row justify-between items-center"><Image
                 width={24}
                 height={24}
-                src={"./navbar/icon/bell.svg"}
+                src={"./navbar/bell.svg"}
                 priority={true}
                 alt="user"
                 /><Image
@@ -111,7 +111,7 @@ const Home = () => {
                 <article className="flex flex-row justify-between items-center"><Image
                 width={24}
                 height={24}
-                src={"./navbar/icon/bell.svg"}
+                src={"./navbar/bell.svg"}
                 priority={true}
                 alt="user"
                 /><Image
@@ -130,14 +130,14 @@ const Home = () => {
             <Image
                 width={79}
                 height={15}
-                src={"./navbar/icon/actutitle.svg"}
+                src={"./navbar/actutitle.svg"}
                 priority={true}
                 alt="user"
                 />
                 <Image className="cursor-pointer"
                 width={590}
                 height={150}
-                src={"./navbar/icon/actu.svg"}
+                src={"./navbar/actu.svg"}
                 priority={true}
                 alt="user"
                 />
