@@ -3,7 +3,7 @@ import Image from "next/image";
 const Home = () => {
   return (
     <section className="w-full h-screen flex flex-col">
-    <section className="w-full px-10 pt-16">
+    <section className="w-full px-10 pt-12">
       <section className="w-full flex flex-row justify-between items-center mb-10">
         <article>
           <Image
@@ -50,7 +50,10 @@ const Home = () => {
         <article className="text-grey2 text-sm cursor-pointer">Paramètres</article>
 
     </section>
-    <section className="bg-greybg w-full flex-grow">
+    <section className="bg-greybg w-full flex-grow px-10 py-6">
+        <article className="bg-white rounded-2xl shadow-sm p-6" style={{width: '281px', height: '220px'}}>
+
+        </article>
 
     </section>
     </section>
