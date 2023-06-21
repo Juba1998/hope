@@ -17,6 +17,9 @@ module.exports = {
       
     },
     extend: {
+      fontSize: {
+        'xxs' : '.5rem'
+      },
 colors: {
         'darkbluehope' : '#237BFF',
         'greyhover' : '#D9D9D7',
