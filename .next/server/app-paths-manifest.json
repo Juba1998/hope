@@ -1,3 +1,5 @@
 {
-  "/event/page": "app/event/page.js"
+  "/home/page": "app/home/page.js",
+  "/post/page": "app/post/page.js",
+  "/plugin/page": "app/plugin/page.js"
 }
