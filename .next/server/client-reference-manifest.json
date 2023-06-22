@@ -230,6 +230,95 @@
         "async": false
       }
     },
+<<<<<<< HEAD
+=======
+    "(app-client)/./app/post/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/post/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/post/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/post/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/post/page:static/chunks/app/post/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/home/page:static/chunks/app/home/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/home/page:static/chunks/app/home/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/home/page:static/chunks/app/home/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/home/page:static/chunks/app/home/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/home/page:static/chunks/app/home/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/home/page:static/chunks/app/home/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/home/page:static/chunks/app/home/page.js"
+        ],
+        "async": false
+      }
+    },
+>>>>>>> 48bf4e5a23dfad5b70625b9e119e5085dd73de66
     "(app-client)/./app/template.tsx": {
       "*": {
         "id": "(sc_client)/./app/template.tsx",
@@ -1074,6 +1163,152 @@
       ],
       "async": false
     },
+<<<<<<< HEAD
+=======
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/styles/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/app/post/page.tsx": {
+      "id": "(app-client)/./app/post/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/app/post/page.tsx#": {
+      "id": "(app-client)/./app/post/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/app/post/page.tsx#default": {
+      "id": "(app-client)/./app/post/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/post/page:static/chunks/app/post/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+>>>>>>> 48bf4e5a23dfad5b70625b9e119e5085dd73de66
     "/Users/juba/Downloads/retail_enterprise-feature-navbar/app/template.tsx": {
       "id": "(app-client)/./app/template.tsx",
       "name": "*",
@@ -1217,6 +1452,7 @@
         "app/template:static/chunks/app/template.js"
       ],
       "async": false
+<<<<<<< HEAD
     },
     "/Users/juba/Downloads/retail_enterprise-feature-navbar/node_modules/next/dist/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
@@ -1312,6 +1548,8 @@
         "app/post/page:static/chunks/app/post/page.js"
       ],
       "async": false
+=======
+>>>>>>> 48bf4e5a23dfad5b70625b9e119e5085dd73de66
     }
   }
 }

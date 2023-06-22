@@ -274,7 +274,6 @@ const testPage = () => {
               width={238}
               height={47}
               src={"./navbar/vdplogo.svg"}
-              priority={true}
               alt="user"
               className="m-auto"
             />

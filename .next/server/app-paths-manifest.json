@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
   "/home/page": "app/home/page.js",
   "/post/page": "app/post/page.js",
   "/plugin/page": "app/plugin/page.js"
+=======
+  "/guide/page": "app/guide/page.js",
+  "/event/page": "app/event/page.js",
+  "/post/page": "app/post/page.js"
+>>>>>>> 48bf4e5a23dfad5b70625b9e119e5085dd73de66
 }
