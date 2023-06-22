@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Loading } from "react-loading-dot";
 import styles from "./Post.module.scss";
 
-const testPage = () => {
+const Post = () => {
   const [loading, setLoading] = useState(false);
   const [postdrag, setPostdrag] = useState(false);
   const [posttext, setPosttext] = useState(false);
@@ -333,4 +333,4 @@ const testPage = () => {
     </section>
   );
 };
-export default testPage;
+export default Post;
