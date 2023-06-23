@@ -1,6 +1,17 @@
+"use client"
 import Image from "next/image";
+import { useState } from "react";
+
 
 const Home = () => {
+  const [params, setParams] = useState(false);
+
+  const handleClick = () => {
+
+    setParams(!params);
+
+  }
+ 
   return (
     <section className="w-full h-screen flex flex-col">
     <section className="w-full px-10 pt-12">
@@ -46,11 +57,11 @@ const Home = () => {
       
     </section>
     <section className="pl-10 flex flex-row gap-8">
-        <article className="border-b-2 border-b-darkbluehope text-sm cursor-pointer">Fonctionnalités</article>
-        <article className="text-grey2 text-sm cursor-pointer">Paramètres</article>
+        <article onClick={handleClick} className={ !params ? "border-b-2 border-b-darkbluehope text-sm cursor-pointer" : "text-grey2 text-sm cursor-pointer"}>Fonctionnalités</article>
+        <article onClick={handleClick} className={ !params ?"text-grey2 text-sm cursor-pointer" : "border-b-2 border-b-darkbluehope text-sm cursor-pointer" }>Paramètres</article>
 
     </section>
-    <section className="bg-greybg w-full flex-grow px-10 py-10">
+    {!params? <section className="bg-greybg w-full flex-grow px-10 py-10">
         <section className="h-full flex flex-row gap-7">
         <section className="flex flex-col justify-between h-full">
             <section className="flex flex-col gap-5">
@@ -155,7 +166,95 @@ const Home = () => {
         
         </section></section>
             
-    </section>
+    </section> : <section className="bg-greybg w-full flex-grow px-10 py-10">
+      
+      <article className="flex flex-row" style={{gap:'34px', marginBottom: '48px'}}>
+    <Image className=""
+                height={89}
+                width={89}
+                src={"/navbar/profil.svg"}
+                priority={true}
+                alt="user"
+                />
+                <article className="flex flex-row items-center" style={{ gap: '8px' }}>
+                <button className="bg-darkbluehope text-white text-xs rounded-lg" style={{ width: '148px', height: '34px' }}>Changer mon avatar</button>
+                <button className="bg-red-500 text-white text-xs rounded-lg" style={{ width: '90px', height: '34px' }}>Supprimer</button>
+                </article>
+      </article>
+      <section className="flex flex-col" style={{gap :'20px'}}>
+        <article className="flex flex-row" style={{gap :'41px'}}>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Prénom*</p>
+            <input style={{width : '485px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre prénom"></input>
+          </article>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Nom de famille *</p>
+            <input style={{width : '485px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre nom de famille"></input>
+          </article>
+
+
+      </article>
+        <article className="flex flex-row" style={{gap :'41px'}}>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Numéro de téléphone (Facultatif)</p>
+            <input style={{width : '485px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre numéro de téléphone"></input>
+          </article>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Email</p>
+            <input style={{width : '485px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre adresse email"></input>
+          </article>
+
+
+      </article>
+        <article className="flex flex-row " style={{gap : '20px'}}>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Adresse</p>
+            <input style={{width : '258px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre adresse"></input>
+          </article>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Code Postal</p>
+            <input style={{width : '258px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre code postal"></input>
+          </article>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Ville</p>
+            <input style={{width : '258px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre ville"></input>
+          </article>
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Pays</p>
+            <input style={{width : '176px', height: '42px'}} type="text" className=" border border-greyhover p-4 rounded-lg focus:outline-none focus:ring-2 focus:ring-darkbluehope placeholder:text-greyhover placeholder:font-light" placeholder="Saisir votre pays"></input>
+          </article>
+      
+
+
+      </article>
+
+      <article className="flex flex-col gap-2 justify-start">
+
+          <p>Couleur du thème</p>
+          <Image className=""
+                width={513}
+                height={44}
+                src={"./navbar/colors.svg"}
+                priority={true}
+                alt="user"
+                />
+          <p className="text-grey2 text-xs">Veuillez sélectionner une couleur afin de personnaliser votre interface</p>
+          </article>
+      
+
+
+        </section></section>
+            
+    }
+    
     </section>
   );
 };

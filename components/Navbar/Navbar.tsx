@@ -290,7 +290,7 @@ export const Navbar = (): JSX.Element => {
               }
               href={"/access"}
             >
-              Accessiblité
+              Accessibilité
             </Link>
           </article>
         </section>

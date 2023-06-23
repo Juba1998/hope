@@ -248,6 +248,7 @@ const Post = () => {
             </div>
           
           </article>
+          <article className="flex flex-col gap-3 items-center">
           <button
           
           className="bg-darkbluehope text-white text-xs rounded-lg"
@@ -255,13 +256,13 @@ const Post = () => {
         >
           Retrouver votre guide des pratiques
         </button>
-          <button
+          <a
           
-          className="bg-white text-darkbluehope text-xs rounded-lg"
-          style={{ width: "491px", height: "39px" }}
-        >
+          className="text-red-500  text-xs font-medium cursor-pointer "
+          
+     >
           Signaler une informations qui vous sembles sensible sur cette publication
-        </button>
+        </a></article>
         </section> :  
           <>
       {loading ? (
