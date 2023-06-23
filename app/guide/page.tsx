@@ -17,7 +17,7 @@ const testPage = () => {
           className="bg-white text-black border border-black text-xs rounded-lg"
           style={{ width: "224px", height: "41px" }}
         >
-          Transparence de l'information
+          Transparence de l&apos;information
         </button>
         <button
           className="bg-white text-black border border-black text-xs rounded-lg"
@@ -35,7 +35,7 @@ const testPage = () => {
           className="bg-white text-black border border-black text-xs rounded-lg"
           style={{ width: "168px", height: "41px" }}
         >
-          Promotion de l'inclusivité
+          Promotion de l&apos;inclusivité
         </button>
       </section>
       <section
@@ -51,7 +51,7 @@ const testPage = () => {
             <span className="font-semibold">
               protection des informations personnelles
             </span>{" "}
-            et la préservation de l'autonomie individuelle lors de l'utilisation
+            et la préservation de l&apos;autonomie individuelle lors de l&apos;utilisation
             de ces plateformes.
           </p>
           <p className="text-sm leading-4 font-light">
@@ -61,7 +61,7 @@ const testPage = () => {
             protection contre la collecte excessive de données, la sécurité des
             informations, le contrôle sur le contenu partagé, ainsi que la{" "}
             <span className="font-semibold">sensibilisation</span> et
-            l'éducation des utilisateurs.
+            l&apos;éducation des utilisateurs.
           </p>
           <p className="text-sm leading-4 font-light">
             Le respect de la <span className="font-semibold">vie privée</span>{" "}
@@ -193,7 +193,7 @@ const testPage = () => {
       <p className="text-3xl italic">Quizz</p>
       <p className="text-sm text-darkbluehope">Question 1/10</p>
       </article>
-      <p className="text-lg">Qu'est-ce que le respect de la vie privée sur les réseaux sociaux ?</p>
+      <p className="text-lg">Qu&apos;est-ce que le respect de la vie privée sur les réseaux sociaux ?</p>
       <article className="flex flex-col" style={{gap: '14px'}}></article>
       <article className="flex flex-row" style={{gap: '14px'}}>
         <article className="bg-white rounded-lg shadow-md flex flex-row items-center justify-center gap-4" style={{height: '85px', width: '249px'}}>
@@ -202,7 +202,7 @@ const testPage = () => {
         </article>
         <article className="bg-white rounded-lg shadow-md flex flex-row items-center justify-center gap-2" style={{height: '85px', width: '249px'}}>
           <div className="rounded-full border border-black "style={{height: '22px', width: '22px'}}></div>
-          <p className="text-center text-xs">Préserver l'autonomie individuelle <br></br>lors de l'utilisation des réseaux.</p>
+          <p className="text-center text-xs">Préserver l&apos;autonomie individuelle <br></br>lors de l&apos;utilisation des réseaux.</p>
         </article>
       </article>
       <article className="flex flex-row" style={{gap: '14px'}}>
